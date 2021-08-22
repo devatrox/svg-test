@@ -3,7 +3,6 @@
 Importing an SVG from an npm package will result in the error message
 
 ````
-[~/Projekte/svg-test]$ npx parcel build ./src/index.html                                                                            *[main]
 🚨 Build failed.
 
 @parcel/transformer-js: Expected ;, got xmlns
